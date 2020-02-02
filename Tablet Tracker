@@ -1,1 +1,10 @@
+#Dateimanager+
+#Google Ads
+31com.google.android.gms.ads.mediation.
 
+#Google Firebase Analytics
+11com.google.android.gms.measurement.
+8com.google.firebase.analytics.
+
+#µ?Google-Ads Consent
+17com.google.ads.consent
