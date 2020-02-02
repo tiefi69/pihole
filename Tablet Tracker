@@ -1,4 +1,6 @@
-#Dateimanager+
+Tracker Tablet
+
+#Dateimanager+ - - 
 #Google Ads
 31com.google.android.gms.ads.mediation.
 
@@ -8,3 +10,177 @@
 
 #µ?Google-Ads Consent
 17com.google.ads.consent
+
+#Dateimanager Huawei - - 
+#Baidu Location
+174com.baidu.location
+
+#Baidu Map
+334com.baidu.mapapi
+
+#GoogleDrive - - 
+#Google Analytics
+5com.google.android.gms.analytics.
+
+#Mozilla Firefox - - 
+#Adjust
+41com.adjust.sdk.
+
+#LeanPlum
+262com.leanplum.
+
+#Mozilla Telemetry
+38org.mozilla.gecko.telemetry
+
+#Google Foto - - 
+#Google Firebase Analytics
+9com.google.android.gms.measurement.
+2com.google.firebase.analytics.
+
+#Google Galarie - - 
+#Google Tag Manager
+65com.google.android.gms.tagmanager
+
+
+#Google Mail - - 
+#Google Analytics
+1com.google.android.gms.analytics.
+
+#Google Searchbox - - 
+#Google Analytics
+#Google Firebase Analytics
+
+#Google Analytics
+94com.google.android.gms.analytics.
+
+#Google Firebase Analytics
+395com.google.android.gms.measurement.
+8com.google.firebase.analytics.
+
+#Google News - - 
+
+#Google Ads
+58com.google.android.gms.ads.mediation.
+
+#Google Analytics
+112com.google.android.gms.analytics.
+
+#Google DoubleClick
+10com.google.android.gms.ads.doubleclick
+
+#Google Firebase Analytics
+393com.google.android.gms.measurement.
+9com.google.firebase.analytics.
+
+#Google Bücher - - - 
+#Google Analytics
+1com.google.android.gms.analytics.
+
+#Google Firebase Analytics
+16com.google.android.gms.measurement.
+2com.google.firebase.analytics.
+
+
+#Google Play Filme - - 
+
+#Google Firebase Analytics
+1com.google.firebase.analytics.
+
+
+#Google Play Musik - - 
+#Google Ads
+26com.google.android.gms.ads.mediation.
+
+#Google Analytics
+111com.google.android.gms.analytics.
+
+#Google DoubleClick
+8com.google.android.gms.ads.doubleclick
+
+#Google Tag Manager
+191com.google.android.gms.tagmanager
+
+
+#Google Play Spiele - - 
+#Google Firebase Analytics
+3com.google.android.gms.measurement.
+2com.google.firebase.analytics.
+
+
+#Google Play Store - - 
+
+#Google Ads
+1com.google.android.gms.ads.mediation.
+
+#Google Firebase Analytics
+16com.google.android.gms.measurement.
+2com.google.firebase.analytics.
+
+#Supermarkt tycoon - - 
+#AdColony
+334com.adcolony
+
+#AppLovin
+642com.applovin
+
+#AppsFlyer
+98com.appsflyer.
+
+#ChartBoost
+161com.chartboost.sdk.
+
+#Facebook Ads
+155com.facebook.ads
+
+#Facebook Analytics
+110com.facebook.appevents
+
+#Facebook Login
+56com.facebook.login
+
+#Facebook Share
+197com.facebook.share
+
+#Fyber
+539com.fyber.
+
+#GameAnalytics
+76com.gameanalytics.sdk
+
+#Google Ads
+55com.google.android.gms.ads.mediation.
+
+#Google CrashLytics
+208com.crashlytics.
+214io.fabric.
+
+#Google DoubleClick
+10com.google.android.gms.ads.doubleclick
+
+#Google Firebase Analytics
+12com.google.android.gms.measurement.
+
+#HyprMX
+412com.hyprmx.android.sdk.
+
+#Inmobi
+581com.inmobi
+
+#ironSource
+632com.ironsource.
+
+#Mintegral
+707com.mintegral.
+
+#Moat
+265com.moat.analytics.mobile.
+
+#Tapjoy
+604com.tapjoy.
+
+#Unity3d Ads
+15com.unity3d.ads
+379com.unity3d.services
+
+
+
