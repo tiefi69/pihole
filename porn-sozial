@@ -12,8 +12,6 @@ ff02::1 ip6-allnodes
 ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
-
-
 0.0.0.0 01mspmd5yalky8.com
 0.0.0.0 0byv9mgbn0.com
 0.0.0.0 analytics.247sports.com
