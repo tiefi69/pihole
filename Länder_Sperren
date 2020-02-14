@@ -1,0 +1,8 @@
+Sperrt alle Domains aus China, Russland, Kolumbien und Vietnam:
+([a-zA-Z0-9\-\._]{2,256})(\.cn$|\.ru$|\.co$|\.vn$)
+
+Sperrt alle URLs zu "sendgrid.net"
+([a-zA-Z0-9\-\._]{0,256})(sendgrid)(\.net)
+
+Sperrt alle Punycode-Domains:
+.*(xn--).*([a-zA-Z0-9\-\._]{2,256})*(\.[a-z]{2,18})
